@@ -2,11 +2,19 @@
   {
     "id": "social_media_block",
     "filename": "social_block.txt",
-    "url": "https://raw.githubusercontent.com/iamvany30/agro-block-lists/main/default/social_block.txt"
+    "url": "https://raw.githubusercontent.com/iamvany30/agro-block-lists/main/default/social_block.txt",
+    "name": "",
+    "desc": "",
+    "version": "2025.11.04",
+    "hostCount": 65320
   },
   {
     "id": "bypassing_blocks",
     "filename": "working_ai.txt",
-    "url": "https://raw.githubusercontent.com/iamvany30/agro-block-lists/main/default/working_ai.txt"
+    "url": "https://raw.githubusercontent.com/iamvany30/agro-block-lists/main/default/working_ai.txt",
+    "name": "",
+    "desc": "",
+    "version": "2025.11.01",
+    "hostCount": 12850
   }
 ]
