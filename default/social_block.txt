@@ -1,0 +1,9 @@
+# NAME: StevenBlack's Unified Hosts
+# DESC: Базовый список, объединяющий несколько источников (adaway, hosts-file.net, и др.).
+# VERSION: 2.1.0
+#
+# Начало списка хостов
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.google.com
+127.0.0.1 analytics.google.com
+# ... и так далее
