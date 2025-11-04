@@ -3,5 +3,10 @@
     "id": "social_media_block",
     "filename": "social_block.txt",
     "url": "https://raw.githubusercontent.com/iamvany30/agro-block-lists/main/default/social_block.txt"
+  },
+  {
+    "id": "bypassing_blocks",
+    "filename": "working_ai.txt",
+    "url": "https://raw.githubusercontent.com/iamvany30/agro-block-lists/main/default/working_ai.txt"
   }
 ]
