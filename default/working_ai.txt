@@ -1,3 +1,7 @@
+# NAME: Обход для ИИ и др.
+# DESC: Обход для: ChatGPT, Google, Microsoft Copilot, Microsoft Rewards, Xbox, Xbox Cloud Gaming, GitHub Copilot, Codeium, JetBrains, ElevenLabs, Truth Social, Grok......
+# VERSION: 1.0.0
+
 # Дополнение к zapret, некоторые сайты заблокированы по IP:
 157.240.245.174 instagram.com
 157.240.245.174 www.instagram.com
