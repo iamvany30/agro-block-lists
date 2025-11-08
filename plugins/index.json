@@ -2,12 +2,12 @@
   "version": "1.0",
   "plugins": [
     {
-      "id": "agroblock-lib",
-      "name": "Библотека для плагинов.",
+      "id": "agroblock-realtimestats",
+      "name": "RealtimeStats",
       "version": "1.0.0",
       "author": "iamvany30",
-      "description": "Добавляет функционал для плагинов.",
-      "repository": "https://github.com/iamvany30/"
+      "description": "Добавляет виджет на главный экран, показывающий количество заблокированных доменов за последние 24 часа.",
+      "repository": "https://github.com/iamvany30/agro-block-lists/plugins/RealtimeStats.js"
     }
   ]
 }
